@@ -1,4 +1,4 @@
-# 🛒 Online Retail — Sales Analysis
+# Online Retail — Sales Analysis
 
 **Author:** Almat Apseit  
 **Date:** 2025  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 This project presents a full **exploratory data analysis (EDA)** of the [Online Retail dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) from UCI Machine Learning Repository.  
 It simulates a real-world data analytics workflow, from data cleaning and transformation to visualization and business insights.
@@ -15,7 +15,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand the structure and key metrics of an online retail business  
 - Identify the top-performing products and countries  
@@ -26,7 +26,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Source:** [Kaggle — E-Commerce Data (Online Retail)](https://www.kaggle.com/datasets/carrie1/ecommerce-data)  
 **File:** `OnlineRetail.csv` (≈541,000 rows, 8 columns)
@@ -44,7 +44,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 🧠 Analysis Steps
+## Analysis Steps
 
 1. **Data Cleaning & Preparation**
    - Removed missing customer IDs and negative quantities  
@@ -71,7 +71,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 📊 Example Insights
+## Example Insights
 
 - **Total Revenue:** £8.5M  
 - **Active Customers:** 4.3K  
@@ -82,7 +82,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 - Monthly revenue line chart  
 - Top products bar chart  
@@ -94,7 +94,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 🧩 Recommendations
+## Recommendations
 
 - Focus marketing campaigns on top-selling product categories  
 - Use customer segmentation to target high-LTV clients  
@@ -104,7 +104,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 - Build a **Power BI / Tableau dashboard** using processed data  
 - Export key tables (monthly revenue, top products) for BI integration  
@@ -113,7 +113,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 🧾 Files in Repository
+## Files in Repository
 
 | File | Description |
 |------|--------------|
@@ -124,7 +124,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python 3.x  
 - pandas, numpy  
@@ -134,7 +134,7 @@ The analysis was performed in **Python (Jupyter Notebook)** and can be easily re
 
 ---
 
-## 💡 About
+## About
 
 This project was created as part of a **Data Analytics portfolio** to demonstrate practical analytical and visualization skills.  
 It highlights the ability to derive business insights from raw e-commerce transaction data and communicate them effectively.
